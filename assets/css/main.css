@@ -3480,6 +3480,13 @@ input, select, textarea {
 					text-transform: uppercase;
 				}
 
+				#banner > .inner .contentplain p {
+					font-size: 0.7em;
+					font-weight: 600;
+					letter-spacing: 0.25em;
+					/*text-transform: uppercase;*/
+				}
+
 		#banner.major {
 			height: 75vh;
 			min-height: 30em;
